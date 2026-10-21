@@ -78,11 +78,15 @@
 
 </div>
 
+---
+
 ### 📈 GitHub Activity Graph
 
 <div align="center">
 
-[![AnangML's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AnangML&theme=react-dark&hide_border=true&area=true)](https://github.com/AnangML)
+<a href="https://github.com/AnangML">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnangML&theme=tokyo-night&bg_color=0D1117&hide_border=true&area=true" width="100%" alt="AnangML's GitHub activity graph" />
+</a>
 
 </div>
 
