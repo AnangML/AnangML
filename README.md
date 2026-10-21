@@ -84,7 +84,7 @@
 ### 👾 Pac-Man Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AnangML/AnangML/output/pacman.svg" width="100%" alt="Pacman Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/AnangML/AnangML/output/pacman-contribution-graph-dark.svg" width="100%" alt="Pacman Contribution Graph" />
 </div>
 
 ---
