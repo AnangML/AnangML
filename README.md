@@ -81,6 +81,14 @@
 
 ---
 
+### 📊 3D Isometric Contribution Calendar
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-green-natural-night.svg" width="100%" alt="3D Isometric Contribution Graph" />
+</div>
+
+---
+
 ### 👾 Pac-Man Contribution Graph
 
 <div align="center">
@@ -88,7 +96,6 @@
 </div>
 
 ---
-![](./profile-3d-contrib/profile-green-natural-night.svg)
 
 ### 🤝 Let's Connect!
 
