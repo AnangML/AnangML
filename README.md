@@ -76,7 +76,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnangML&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" width="98%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnangML&theme=react-dark&hide_border=true&area=true" width="98%" alt="Activity Graph" />
 </div>
 
 ---
@@ -84,7 +84,7 @@
 ### 📊 3D Isometric Contribution Calendar
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-green-natural-night.svg" width="100%" alt="3D Isometric Contribution Graph" />
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Isometric Contribution Graph" />
 </div>
 
 ---
