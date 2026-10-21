@@ -85,7 +85,7 @@
 <div align="center">
 
 <a href="https://github.com/AnangML">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnangML&theme=tokyo-night&bg_color=0D1117&hide_border=true&area=true" width="100%" alt="AnangML's GitHub activity graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnangML&theme=tokyonight" width="100%" alt="AnangML's GitHub activity graph" />
 </a>
 
 </div>
