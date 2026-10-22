@@ -6,7 +6,7 @@
 
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=AnangML&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+<img src="https://view-counter.mergify.com/badge/AnangML?label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/AnangML?label=Followers&style=flat-square&color=38B2AC" alt="Followers" />
 <img src="https://img.shields.io/badge/Focus-Backend%20%26%20System%20Architecture-8A2BE2?style=flat-square" alt="Focus" />
 
