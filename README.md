@@ -6,7 +6,7 @@
 
 <br />
 
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAnangML&count_bg=%230E75B6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=true" alt="Profile Views" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=AnangML-profile-page-v1&left_text=Profile%20Views&color=0e75b6" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/AnangML?label=Followers&style=flat-square&color=38B2AC" alt="Followers" />
 <img src="https://img.shields.io/badge/Focus-Backend%20%26%20System%20Architecture-8A2BE2?style=flat-square" alt="Focus" />
 
