@@ -65,18 +65,33 @@
 
 ---
 
+
 ### 📊 GitHub Analytics & Streak
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AnangML&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnangML&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="Top languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=AnangML&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true"
+    height="165"
+    alt="GitHub stats including private contributions"
+  />
 
-<br />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnangML&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true"
+    height="165"
+    alt="Top languages including private repositories"
+  />
 
-<img src="https://streak-stats.demolab.com?user=AnangML&theme=tokyonight&hide_border=true&background=0D1117" height="165" alt="GitHub streak" />
+  <br />
+
+  <img
+    src="https://streak-stats.demolab.com?user=AnangML&theme=tokyonight&hide_border=true&background=0D1117"
+    height="165"
+    alt="GitHub streak including private contributions"
+  />
 
 </div>
+
 
 ---
 
