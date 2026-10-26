@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Anang Muhamad Lutfi! 👋
+# Hi there, I'm Anang Muhamad Lutfi! 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Backend+Developer+(PHP+%26+Laravel);Full-Stack+Enthusiast+(Next.js+%26+TypeScript);Building+Scalable+APIs+%26+Web+Apps;Informatics+Engineering+Student" alt="Typing SVG" />
 
