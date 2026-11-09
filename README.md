@@ -73,13 +73,13 @@
 <div align="center">
 
   <img
-    src="https://github-readme-stats.vercel.app/api?username=AnangML&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true"
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnangML&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true"
     height="165"
     alt="GitHub stats including private contributions"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnangML&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnangML&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true"
     height="165"
     alt="Top languages including private repositories"
   />
