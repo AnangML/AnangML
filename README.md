@@ -62,6 +62,7 @@
 | 🚆 **[Railoka](https://github.com/AnangML/Railoka)** | `Laravel 12` `Next.js 15` `TypeScript` `PostgreSQL` `Midtrans` | Full-stack train ticketing platform with interactive carriage seat mapping, real-time locking, and automated Midtrans payment gateway. |
 | 🏥 **[Posyandu Digital](https://github.com/AnangML/posyandu_main)** | `Laravel` `Google Sheets API` `Tailwind CSS` `AI` | AI-assisted maternal and child healthcare management system with real-time cloud spreadsheet synchronization. |
 | 📜 **CELIA** | `Laravel` `Filament` `PostgreSQL` | Certificate List Management and automated blanko inventory tracking system built for university certification bodies (LSP). |
+|  **NgemilKukis** | `Laravel` dan `Tailwind CSS` `PostgreSQL` | Platform toko online kukis artisanal modern berbasis Laravel dan Tailwind CSS v4, dilengkapi integrasi Xendit Payment Gateway, program loyalitas Cookie Crumbs, RBAC 4 tingkat, serta Audit Trail terpusat. |
 
 ---
 
