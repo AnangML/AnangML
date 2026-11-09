@@ -59,10 +59,11 @@
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-| 🚆 **[Railoka](https://github.com/AnangML/Railoka)** | `Laravel 12` `Next.js 15` `TypeScript` `PostgreSQL` `Midtrans` | Full-stack train ticketing platform with interactive carriage seat mapping, real-time locking, and automated Midtrans payment gateway. |
-| 🏥 **[Posyandu Digital](https://github.com/AnangML/posyandu_main)** | `Laravel` `Google Sheets API` `Tailwind CSS` `AI` | AI-assisted maternal and child healthcare management system with real-time cloud spreadsheet synchronization. |
-| 📜 **CELIA** | `Laravel` `Filament` `PostgreSQL` | Certificate List Management and automated blanko inventory tracking system built for university certification bodies (LSP). |
-|  **NgemilKukis** | `Laravel` dan `Tailwind CSS` `PostgreSQL` | Platform toko online kukis artisanal modern berbasis Laravel dan Tailwind CSS v4, dilengkapi integrasi Xendit Payment Gateway, program loyalitas Cookie Crumbs, RBAC 4 tingkat, serta Audit Trail terpusat. |
+| 🚆 **[RaiLoka](https://github.com/AnangML/Railoka)** | `Next.js 15` `Laravel 13` `TypeScript` `PostgreSQL` `Midtrans Snap` `WebSocket` | Enterprise monorepo train ticketing platform with ACID concurrency-safe seat locking (`SELECT ... FOR UPDATE`), Midtrans Snap payment gateway, and real-time customer service chat via Laravel Reverb. |
+| 🍪 **[NgemilKukis](https://github.com/AnangML/NgemilKukis)** | `Laravel 12` `Tailwind CSS v4` `Alpine.js` `Xendit Gateway` `MySQL` | Modern artisan soft-baked cookie e-commerce storefront featuring reactive cart drawer, Xendit automated payments with Idempotency Key protection, "Cookie Crumbs" loyalty engine, and 4-tier RBAC audit logs. |
+| 🏥 **[Posyandu Soka](https://github.com/AnangML/posyandu_main)** | `Laravel` `Tailwind CSS` `PostgreSQL` `REST API` | Community healthcare information system streamlining maternal and child medical checkup records, patient registration workflows, and automated periodic health reporting. |
+| 📜 **[CELIA (LSP Unpam)](#)** | `Laravel` `PostgreSQL` `Tailwind CSS` | Centralized professional competency certificate management repository developed for university certification bodies (LSP) to eliminate manual verification and certificate printing bottlenecks. |
+| 💼 **[MyPorto](https://github.com/AnangML/MyPorto)** | `Laravel` `PostgreSQL` `Tailwind CSS v4` `Alpine.js` `PHPUnit` | High-performance personal developer portfolio and custom admin CMS featuring bilingual localization (ID/EN), dynamic scroll progress, and 59 automated tests with 100% pass rate. |
 
 ---
 
@@ -132,11 +133,14 @@
 
 <div align="center">
 
-<a href="https://linkedin.com" target="_blank">
+<a href="https://linkedin.com/in/anang-muhamad-lutfi" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://anangml.github.io" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+<a href="https://github.com/AnangML" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="mailto:ananglutfi2003@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 </div>
