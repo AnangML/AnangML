@@ -67,6 +67,15 @@
 
 ---
 
+### 🏆 GitHub Trophies & Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy-nu.vercel.app/?username=AnangML&theme=tokyonight&no-frame=true&margin-w=4" width="100%" alt="AnangML's GitHub Trophies" />
+
+</div>
+
+---
 
 ### 📊 GitHub Analytics & Streak
 
